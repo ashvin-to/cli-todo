@@ -76,19 +76,6 @@ todo rm 2
 todo help
 ```
 
-## 🏗️ Project Structure
-
-```
-cli-todo/
-├── src/               # Source files
-│   ├── main.cpp       # Entry point
-│   ├── todo.cpp       # Todo class implementation
-│   └── todo.h         # Todo class declaration
-├── CMakeLists.txt     # Build configuration
-├── setup.sh           # Installation script
-└── README.md          # This file
-```
-
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
